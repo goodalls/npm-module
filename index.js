@@ -1,4 +1,4 @@
-const generateRandomNumbers = require('./lib/gen-random-numbers.js');
+const generateRandomNumbers = require('./lib/random-numbers.js');
 
 module.exports = {
   generateRandomNumbers
